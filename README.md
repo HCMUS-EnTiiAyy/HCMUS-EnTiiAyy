@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on HCMUS
-- 🌱 I’m currently learning blockchain
+- 🔭 I’m currently studying on HCMUS-VNU
+- 🌱 I’m currently learning security and blockchain
 <!--
 **thenguyenltv/thenguyenltv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
